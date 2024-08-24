@@ -5,5 +5,258 @@
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 }
   ],
-  "profile": { "name": "typicode" }
+  "profile": { "name": "typicode" },
+  "palettes": [
+  {
+    "id": 1,
+    "title": "Classic Blue",
+    "hex": "#0F4C81"
+  },
+  {
+    "id": 2,
+    "title": "Living Coral",
+    "hex": "#FF6F61"
+  },
+  {
+    "id": 3,
+    "title": "Ultimate Gray",
+    "hex": "#939597"
+  },
+  {
+    "id": 4,
+    "title": "Illuminating",
+    "hex": "#F5DF4D"
+  },
+  {
+    "id": 5,
+    "title": "Turquoise",
+    "hex": "#40E0D0"
+  },
+  {
+    "id": 6,
+    "title": "Emerald",
+    "hex": "#50C878"
+  },
+  {
+    "id": 7,
+    "title": "Radiant Orchid",
+    "hex": "#B565A7"
+  },
+  {
+    "id": 8,
+    "title": "Rose Quartz",
+    "hex": "#F7CAC9"
+  },
+  {
+    "id": 9,
+    "title": "Serenity",
+    "hex": "#92A8D1"
+  },
+  {
+    "id": 10,
+    "title": "Marsala",
+    "hex": "#955251"
+  },
+  {
+    "id": 11,
+    "title": "Mimosa",
+    "hex": "#FFDB58"
+  },
+  {
+    "id": 12,
+    "title": "Tangerine Tango",
+    "hex": "#DD4124"
+  },
+  {
+    "id": 13,
+    "title": "Honeysuckle",
+    "hex": "#D94F70"
+  },
+  {
+    "id": 14,
+    "title": "Aquamarine",
+    "hex": "#7FFFD4"
+  },
+  {
+    "id": 15,
+    "title": "Lush Green",
+    "hex": "#009B77"
+  },
+  {
+    "id": 16,
+    "title": "Fiery Red",
+    "hex": "#B21807"
+  },
+  {
+    "id": 17,
+    "title": "Sunset Orange",
+    "hex": "#FD5E53"
+  },
+  {
+    "id": 18,
+    "title": "Teal Blue",
+    "hex": "#367588"
+  },
+  {
+    "id": 19,
+    "title": "Blush Pink",
+    "hex": "#F19CBB"
+  },
+  {
+    "id": 20,
+    "title": "Deep Purple",
+    "hex": "#673AB7"
+  },
+  {
+    "id": 21,
+    "title": "Sunflower Yellow",
+    "hex": "#FFDA03"
+  },
+  {
+    "id": 22,
+    "title": "Cerulean",
+    "hex": "#007BA7"
+  },
+  {
+    "id": 23,
+    "title": "Lavender",
+    "hex": "#E6E6FA"
+  },
+  {
+    "id": 24,
+    "title": "Olive Green",
+    "hex": "#808000"
+  },
+  {
+    "id": 25,
+    "title": "Peach",
+    "hex": "#FFDAB9"
+  },
+  {
+    "id": 26,
+    "title": "Royal Blue",
+    "hex": "#4169E1"
+  },
+  {
+    "id": 27,
+    "title": "Crimson",
+    "hex": "#DC143C"
+  },
+  {
+    "id": 28,
+    "title": "Ivory",
+    "hex": "#FFFFF0"
+  },
+  {
+    "id": 29,
+    "title": "Magenta",
+    "hex": "#FF00FF"
+  },
+  {
+    "id": 30,
+    "title": "Slate Gray",
+    "hex": "#708090"
+  },
+  {
+    "id": 31,
+    "title": "Mint Green",
+    "hex": "#98FF98"
+  },
+  {
+    "id": 32,
+    "title": "Deep Blue",
+    "hex": "#00008B"
+  },
+  {
+    "id": 33,
+    "title": "Amber",
+    "hex": "#FFBF00"
+  },
+  {
+    "id": 34,
+    "title": "Bright Red",
+    "hex": "#FF0000"
+  },
+  {
+    "id": 35,
+    "title": "Cobalt Blue",
+    "hex": "#0047AB"
+  },
+  {
+    "id": 36,
+    "title": "Pastel Pink",
+    "hex": "#FFD1DC"
+  },
+  {
+    "id": 37,
+    "title": "Pistachio",
+    "hex": "#93C572"
+  },
+  {
+    "id": 38,
+    "title": "Neon Green",
+    "hex": "#39FF14"
+  },
+  {
+    "id": 39,
+    "title": "Chocolate Brown",
+    "hex": "#D2691E"
+  },
+  {
+    "id": 40,
+    "title": "Copper",
+    "hex": "#B87333"
+  },
+  {
+    "id": 41,
+    "title": "Cherry Blossom Pink",
+    "hex": "#FFB7C5"
+  },
+  {
+    "id": 42,
+    "title": "Forest Green",
+    "hex": "#228B22"
+  },
+  {
+    "id": 43,
+    "title": "Burnt Orange",
+    "hex": "#CC5500"
+  },
+  {
+    "id": 44,
+    "title": "Sky Blue",
+    "hex": "#87CEEB"
+  },
+  {
+    "id": 45,
+    "title": "Lemon Yellow",
+    "hex": "#FFF700"
+  },
+  {
+    "id": 46,
+    "title": "Ruby Red",
+    "hex": "#9B111E"
+  },
+  {
+    "id": 47,
+    "title": "Powder Blue",
+    "hex": "#B0E0E6"
+  },
+  {
+    "id": 48,
+    "title": "Fuchsia",
+    "hex": "#FF00FF"
+  },
+  {
+    "id": 49,
+    "title": "Periwinkle",
+    "hex": "#CCCCFF"
+  },
+  {
+    "id": 50,
+    "title": "Lime Green",
+    "hex": "#32CD32"
+  }
+]
+
 }
