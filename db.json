@@ -797,6 +797,312 @@
       "title": "Desert Sunrise",
       "firstColor": "#FDC830",
       "secondColor": "#F37335"
+    },
+    {
+      "id": 50,
+      "title": "Midnight Blossom",
+      "firstColor": "#2b5876",
+      "secondColor": "#4e4376"
+    },
+    {
+      "id": 51,
+      "title": "Tropical Sunset",
+      "firstColor": "#ff7e5f",
+      "secondColor": "#feb47b"
+    },
+    {
+      "id": 52,
+      "title": "Frosty Winter",
+      "firstColor": "#E0EAFC",
+      "secondColor": "#CFDEF3"
+    },
+    {
+      "id": 53,
+      "title": "Lush Forest",
+      "firstColor": "#134E5E",
+      "secondColor": "#71B280"
+    },
+    {
+      "id": 54,
+      "title": "Sunny Side",
+      "firstColor": "#FF512F",
+      "secondColor": "#F09819"
+    },
+    {
+      "id": 55,
+      "title": "Violet Horizon",
+      "firstColor": "#00C6FF",
+      "secondColor": "#0072FF"
+    },
+    {
+      "id": 56,
+      "title": "Pink Rose",
+      "firstColor": "#FF9A9E",
+      "secondColor": "#FECFEF"
+    },
+    {
+      "id": 57,
+      "title": "Golden Sun",
+      "firstColor": "#FFD700",
+      "secondColor": "#FF8C00"
+    },
+    {
+      "id": 58,
+      "title": "Aqua Marine",
+      "firstColor": "#2EE5C7",
+      "secondColor": "#11998E"
+    },
+    {
+      "id": 59,
+      "title": "Neon Sunset",
+      "firstColor": "#FDC830",
+      "secondColor": "#F37335"
+    },
+    {
+      "id": 60,
+      "title": "Cool Ocean",
+      "firstColor": "#1D4350",
+      "secondColor": "#A43931"
+    },
+    {
+      "id": 61,
+      "title": "Bright Future",
+      "firstColor": "#FC466B",
+      "secondColor": "#3F5EFB"
+    },
+    {
+      "id": 62,
+      "title": "Misty Forest",
+      "firstColor": "#8e9eab",
+      "secondColor": "#eef2f3"
+    },
+    {
+      "id": 63,
+      "title": "Candy Love",
+      "firstColor": "#ff5f6d",
+      "secondColor": "#ffc371"
+    },
+    {
+      "id": 64,
+      "title": "Blue Flame",
+      "firstColor": "#0f0c29",
+      "secondColor": "#302b63"
+    },
+    {
+      "id": 65,
+      "title": "Lime Green",
+      "firstColor": "#00F260",
+      "secondColor": "#0575E6"
+    },
+    {
+      "id": 66,
+      "title": "Autumn Sunset",
+      "firstColor": "#fbd3e9",
+      "secondColor": "#bb377d"
+    },
+    {
+      "id": 67,
+      "title": "Crystal Clear",
+      "firstColor": "#159957",
+      "secondColor": "#155799"
+    },
+    {
+      "id": 68,
+      "title": "Royal Sky",
+      "firstColor": "#1c92d2",
+      "secondColor": "#f2fcfe"
+    },
+    {
+      "id": 69,
+      "title": "Mystic Sea",
+      "firstColor": "#4568dc",
+      "secondColor": "#b06ab3"
+    },
+    {
+      "id": 70,
+      "title": "Sunrise Splash",
+      "firstColor": "#FF8008",
+      "secondColor": "#FFC837"
+    },
+    {
+      "id": 71,
+      "title": "Winter Sunset",
+      "firstColor": "#4facfe",
+      "secondColor": "#00f2fe"
+    },
+    {
+      "id": 72,
+      "title": "Green Sunrise",
+      "firstColor": "#0ba360",
+      "secondColor": "#3cba92"
+    },
+    {
+      "id": 73,
+      "title": "Pink Fusion",
+      "firstColor": "#fe8c00",
+      "secondColor": "#f83600"
+    },
+    {
+      "id": 74,
+      "title": "Blue Harmony",
+      "firstColor": "#89f7fe",
+      "secondColor": "#66a6ff"
+    },
+    {
+      "id": 75,
+      "title": "Orange Blaze",
+      "firstColor": "#f7b733",
+      "secondColor": "#fc4a1a"
+    },
+    {
+      "id": 76,
+      "title": "Mystic River",
+      "firstColor": "#8e44ad",
+      "secondColor": "#c0392b"
+    },
+    {
+      "id": 77,
+      "title": "Cherry Blossom",
+      "firstColor": "#FDC830",
+      "secondColor": "#F37335"
+    },
+    {
+      "id": 78,
+      "title": "Deep Water",
+      "firstColor": "#2c3e50",
+      "secondColor": "#4ca1af"
+    },
+    {
+      "id": 79,
+      "title": "Night Sky",
+      "firstColor": "#000428",
+      "secondColor": "#004e92"
+    },
+    {
+      "id": 80,
+      "title": "Pink Dream",
+      "firstColor": "#eacda3",
+      "secondColor": "#d6ae7b"
+    },
+    {
+      "id": 81,
+      "title": "Silver Lining",
+      "firstColor": "#bdc3c7",
+      "secondColor": "#2c3e50"
+    },
+    {
+      "id": 82,
+      "title": "Red Passion",
+      "firstColor": "#e52d27",
+      "secondColor": "#b31217"
+    },
+    {
+      "id": 83,
+      "title": "Golden Coast",
+      "firstColor": "#f8ff00",
+      "secondColor": "#3ad59f"
+    },
+    {
+      "id": 84,
+      "title": "Sunny Daze",
+      "firstColor": "#00c3ff",
+      "secondColor": "#ffff1c"
+    },
+    {
+      "id": 85,
+      "title": "Skyline",
+      "firstColor": "#1488cc",
+      "secondColor": "#2b32b2"
+    },
+    {
+      "id": 86,
+      "title": "Pink Sky",
+      "firstColor": "#fcb045",
+      "secondColor": "#fd1d1d"
+    },
+    {
+      "id": 87,
+      "title": "Green Glow",
+      "firstColor": "#0f9b0f",
+      "secondColor": "#00ff00"
+    },
+    {
+      "id": 88,
+      "title": "Pink Ocean",
+      "firstColor": "#ec008c",
+      "secondColor": "#fc6767"
+    },
+    {
+      "id": 89,
+      "title": "Sunset Glow",
+      "firstColor": "#ff5f6d",
+      "secondColor": "#ffc371"
+    },
+    {
+      "id": 90,
+      "title": "Purple Glamour",
+      "firstColor": "#3a6186",
+      "secondColor": "#89253e"
+    },
+    {
+      "id": 91,
+      "title": "Amber Sunset",
+      "firstColor": "#d38312",
+      "secondColor": "#a83279"
+    },
+    {
+      "id": 92,
+      "title": "Ocean Breeze",
+      "firstColor": "#2c3e50",
+      "secondColor": "#3498db"
+    },
+    {
+      "id": 93,
+      "title": "Twilight Haze",
+      "firstColor": "#0f0c29",
+      "secondColor": "#302b63"
+    },
+    {
+      "id": 94,
+      "title": "Crimson Glow",
+      "firstColor": "#dd5e89",
+      "secondColor": "#f7bb97"
+    },
+    {
+      "id": 95,
+      "title": "Electric Blue",
+      "firstColor": "#00c3ff",
+      "secondColor": "#ffff1c"
+    },
+    {
+      "id": 96,
+      "title": "Fiery Orange",
+      "firstColor": "#f12711",
+      "secondColor": "#f5af19"
+    },
+    {
+      "id": 97,
+      "title": "Royal Blue",
+      "firstColor": "#536976",
+      "secondColor": "#292e49"
+    },
+    {
+      "id": 98,
+      "title": "Pink Sunset",
+      "firstColor": "#e96443",
+      "secondColor": "#904e95"
+    },
+    {
+      "id": 99,
+      "title": "Nightfall",
+      "firstColor": "#2980b9",
+      "secondColor": "#6dd5fa"
+    },
+    {
+      "id": 100,
+      "title": "Misty Mountains",
+      "firstColor": "#606c88",
+      "secondColor": "#3f4c6b"
     }
   ]
 }
