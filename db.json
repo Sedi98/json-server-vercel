@@ -1,11 +1,7 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" },
+
+  "admin": { "name": "sedi98" , "password": "sedi9816"},
+  
   "palettes": [
   {
     "id": 1,
@@ -256,7 +252,258 @@
     "id": 50,
     "title": "Lime Green",
     "hex": "#32CD32"
+  },
+  {
+    "id": 51,
+    "title": "Midnight Blue",
+    "hex": "#191970"
+  },
+  {
+    "id": 52,
+    "title": "Sapphire",
+    "hex": "#0F52BA"
+  },
+  {
+    "id": 53,
+    "title": "Sea Green",
+    "hex": "#2E8B57"
+  },
+  {
+    "id": 54,
+    "title": "Gold",
+    "hex": "#FFD700"
+  },
+  {
+    "id": 55,
+    "title": "Mauve",
+    "hex": "#E0B0FF"
+  },
+  {
+    "id": 56,
+    "title": "Coral",
+    "hex": "#FF7F50"
+  },
+  {
+    "id": 57,
+    "title": "Charcoal",
+    "hex": "#36454F"
+  },
+  {
+    "id": 58,
+    "title": "Mustard",
+    "hex": "#FFDB58"
+  },
+  {
+    "id": 59,
+    "title": "Aqua",
+    "hex": "#00FFFF"
+  },
+  {
+    "id": 60,
+    "title": "Eggplant",
+    "hex": "#614051"
+  },
+  {
+    "id": 61,
+    "title": "Indigo",
+    "hex": "#4B0082"
+  },
+  {
+    "id": 62,
+    "title": "Steel Blue",
+    "hex": "#4682B4"
+  },
+  {
+    "id": 63,
+    "title": "Apricot",
+    "hex": "#FBCEB1"
+  },
+  {
+    "id": 64,
+    "title": "Plum",
+    "hex": "#8E4585"
+  },
+  {
+    "id": 65,
+    "title": "Burgundy",
+    "hex": "#800020"
+  },
+  {
+    "id": 66,
+    "title": "Beige",
+    "hex": "#F5F5DC"
+  },
+  {
+    "id": 67,
+    "title": "Navy Blue",
+    "hex": "#000080"
+  },
+  {
+    "id": 68,
+    "title": "Electric Blue",
+    "hex": "#7DF9FF"
+  },
+  {
+    "id": 69,
+    "title": "Khaki",
+    "hex": "#F0E68C"
+  },
+  {
+    "id": 70,
+    "title": "Rose",
+    "hex": "#FF007F"
+  },
+  {
+    "id": 71,
+    "title": "Chartreuse",
+    "hex": "#7FFF00"
+  },
+  {
+    "id": 72,
+    "title": "Mocha",
+    "hex": "#806D5A"
+  },
+  {
+    "id": 73,
+    "title": "Poppy Red",
+    "hex": "#FF4500"
+  },
+  {
+    "id": 74,
+    "title": "Mulberry",
+    "hex": "#C54B8C"
+  },
+  {
+    "id": 75,
+    "title": "Ice Blue",
+    "hex": "#99FFFF"
+  },
+  {
+    "id": 76,
+    "title": "Bronze",
+    "hex": "#CD7F32"
+  },
+  {
+    "id": 77,
+    "title": "Vanilla",
+    "hex": "#F3E5AB"
+  },
+  {
+    "id": 78,
+    "title": "Pearl",
+    "hex": "#EAE0C8"
+  },
+  {
+    "id": 79,
+    "title": "Lemon Lime",
+    "hex": "#E3FF00"
+  },
+  {
+    "id": 80,
+    "title": "Emerald Green",
+    "hex": "#50C878"
+  },
+  {
+    "id": 81,
+    "title": "Lilac",
+    "hex": "#C8A2C8"
+  },
+  {
+    "id": 82,
+    "title": "Flamingo Pink",
+    "hex": "#FC8EAC"
+  },
+  {
+    "id": 83,
+    "title": "Azure",
+    "hex": "#007FFF"
+  },
+  {
+    "id": 84,
+    "title": "Basil Green",
+    "hex": "#4F7942"
+  },
+  {
+    "id": 85,
+    "title": "Hot Pink",
+    "hex": "#FF69B4"
+  },
+  {
+    "id": 86,
+    "title": "Amethyst",
+    "hex": "#9966CC"
+  },
+  {
+    "id": 87,
+    "title": "Sunset Yellow",
+    "hex": "#FFD700"
+  },
+  {
+    "id": 88,
+    "title": "Berry Red",
+    "hex": "#D50000"
+  },
+  {
+    "id": 89,
+    "title": "Grape Purple",
+    "hex": "#6F2DA8"
+  },
+  {
+    "id": 90,
+    "title": "Sand",
+    "hex": "#C2B280"
+  },
+  {
+    "id": 91,
+    "title": "Saffron",
+    "hex": "#F4C430"
+  },
+  {
+    "id": 92,
+    "title": "Mint",
+    "hex": "#3EB489"
+  },
+  {
+    "id": 93,
+    "title": "Pumpkin",
+    "hex": "#FF7518"
+  },
+  {
+    "id": 94,
+    "title": "Taupe",
+    "hex": "#483C32"
+  },
+  {
+    "id": 95,
+    "title": "Canary Yellow",
+    "hex": "#FFEF00"
+  },
+  {
+    "id": 96,
+    "title": "Blush",
+    "hex": "#DE5D83"
+  },
+  {
+    "id": 97,
+    "title": "Mahogany",
+    "hex": "#C04000"
+  },
+  {
+    "id": 98,
+    "title": "Pewter",
+    "hex": "#96A8A1"
+  },
+  {
+    "id": 99,
+    "title": "Mint Cream",
+    "hex": "#F5FFFA"
+  },
+  {
+    "id": 100,
+    "title": "Onyx",
+    "hex": "#353839"
   }
 ]
+
 
 }
