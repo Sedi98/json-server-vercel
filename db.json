@@ -1456,6 +1456,356 @@
     "firstColor": "#ff8008",
     "secondColor": "#ffc837",
     "thirdColor": "#ffce00"
+  },
+  {
+    "id": 51,
+    "title": "Aqua Sky",
+    "firstColor": "#00c6ff",
+    "secondColor": "#0072ff",
+    "thirdColor": "#0052d4"
+  },
+  {
+    "id": 52,
+    "title": "Evening Delight",
+    "firstColor": "#833ab4",
+    "secondColor": "#fd1d1d",
+    "thirdColor": "#fcb045"
+  },
+  {
+    "id": 53,
+    "title": "Pastel Sunset",
+    "firstColor": "#ff9a8b",
+    "secondColor": "#ff6a88",
+    "thirdColor": "#ff99ac"
+  },
+  {
+    "id": 54,
+    "title": "Lush Green",
+    "firstColor": "#56ab2f",
+    "secondColor": "#a8e063",
+    "thirdColor": "#28b485"
+  },
+  {
+    "id": 55,
+    "title": "Royal Blue",
+    "firstColor": "#3a6073",
+    "secondColor": "#16222a",
+    "thirdColor": "#2c5364"
+  },
+  {
+    "id": 56,
+    "title": "Blue Lagoon",
+    "firstColor": "#43c6ac",
+    "secondColor": "#191654",
+    "thirdColor": "#3a1c71"
+  },
+  {
+    "id": 57,
+    "title": "Crimson Sunset",
+    "firstColor": "#ff512f",
+    "secondColor": "#dd2476",
+    "thirdColor": "#b06ab3"
+  },
+  {
+    "id": 58,
+    "title": "Morning Bliss",
+    "firstColor": "#ff9a9e",
+    "secondColor": "#fecfef",
+    "thirdColor": "#f6f2f2"
+  },
+  {
+    "id": 59,
+    "title": "Sunny Garden",
+    "firstColor": "#4facfe",
+    "secondColor": "#00f2fe",
+    "thirdColor": "#1c92d2"
+  },
+  {
+    "id": 60,
+    "title": "Starry Night",
+    "firstColor": "#2b5876",
+    "secondColor": "#4e4376",
+    "thirdColor": "#2c3e50"
+  },
+  {
+    "id": 61,
+    "title": "Bubblegum",
+    "firstColor": "#ff6e7f",
+    "secondColor": "#bfe9ff",
+    "thirdColor": "#ff8c8c"
+  },
+  {
+    "id": 62,
+    "title": "Tangerine Dream",
+    "firstColor": "#ff9966",
+    "secondColor": "#ff5e62",
+    "thirdColor": "#ffa502"
+  },
+  {
+    "id": 63,
+    "title": "Icy Mint",
+    "firstColor": "#00c9ff",
+    "secondColor": "#92fe9d",
+    "thirdColor": "#4facfe"
+  },
+  {
+    "id": 64,
+    "title": "Lavender Bliss",
+    "firstColor": "#b721ff",
+    "secondColor": "#21d4fd",
+    "thirdColor": "#ff99ac"
+  },
+  {
+    "id": 65,
+    "title": "Sunset Coral",
+    "firstColor": "#ff5e62",
+    "secondColor": "#ff9966",
+    "thirdColor": "#ffedbc"
+  },
+  {
+    "id": 66,
+    "title": "Electric Indigo",
+    "firstColor": "#8e2de2",
+    "secondColor": "#4a00e0",
+    "thirdColor": "#fcb045"
+  },
+  {
+    "id": 67,
+    "title": "Tropical Forest",
+    "firstColor": "#00c9ff",
+    "secondColor": "#92fe9d",
+    "thirdColor": "#b2ff59"
+  },
+  {
+    "id": 68,
+    "title": "Ocean Bliss",
+    "firstColor": "#36d1dc",
+    "secondColor": "#5b86e5",
+    "thirdColor": "#00c6ff"
+  },
+  {
+    "id": 69,
+    "title": "Citrus Crush",
+    "firstColor": "#ffa17f",
+    "secondColor": "#00223e",
+    "thirdColor": "#fcd0b7"
+  },
+  {
+    "id": 70,
+    "title": "Bright Flame",
+    "firstColor": "#f12711",
+    "secondColor": "#f5af19",
+    "thirdColor": "#f79d00"
+  },
+  {
+    "id": 71,
+    "title": "Neon City",
+    "firstColor": "#9d50bb",
+    "secondColor": "#6e48aa",
+    "thirdColor": "#f9d423"
+  },
+  {
+    "id": 72,
+    "title": "Purple Rose",
+    "firstColor": "#e43a15",
+    "secondColor": "#ffb03b",
+    "thirdColor": "#e94057"
+  },
+  {
+    "id": 73,
+    "title": "Caribbean Coral",
+    "firstColor": "#ff9966",
+    "secondColor": "#ff5e62",
+    "thirdColor": "#dfe9f3"
+  },
+  {
+    "id": 74,
+    "title": "Cobalt Blue",
+    "firstColor": "#0f0c29",
+    "secondColor": "#302b63",
+    "thirdColor": "#24243e"
+  },
+  {
+    "id": 75,
+    "title": "Pink Sunrise",
+    "firstColor": "#ff9a9e",
+    "secondColor": "#fad0c4",
+    "thirdColor": "#f3e8cb"
+  },
+  {
+    "id": 76,
+    "title": "Violet Mist",
+    "firstColor": "#8e44ad",
+    "secondColor": "#2980b9",
+    "thirdColor": "#c39bd3"
+  },
+  {
+    "id": 77,
+    "title": "Flamingo Pink",
+    "firstColor": "#ff9a9e",
+    "secondColor": "#fad0c4",
+    "thirdColor": "#fcb69f"
+  },
+  {
+    "id": 78,
+    "title": "Forest Green",
+    "firstColor": "#11998e",
+    "secondColor": "#38ef7d",
+    "thirdColor": "#6bebc1"
+  },
+  {
+    "id": 79,
+    "title": "Purple Candy",
+    "firstColor": "#f953c6",
+    "secondColor": "#b91d73",
+    "thirdColor": "#f9d423"
+  },
+  {
+    "id": 80,
+    "title": "Warm Horizon",
+    "firstColor": "#ff7e5f",
+    "secondColor": "#feb47b",
+    "thirdColor": "#fdc830"
+  },
+  {
+    "id": 81,
+    "title": "Summer Night",
+    "firstColor": "#00c6ff",
+    "secondColor": "#0072ff",
+    "thirdColor": "#70e1f5"
+  },
+  {
+    "id": 82,
+    "title": "Mauve Mist",
+    "firstColor": "#acb6e5",
+    "secondColor": "#86fde8",
+    "thirdColor": "#f3e8cb"
+  },
+  {
+    "id": 83,
+    "title": "Pacific Sunset",
+    "firstColor": "#fc5c7d",
+    "secondColor": "#6a82fb",
+    "thirdColor": "#70e1f5"
+  },
+  {
+    "id": 84,
+    "title": "Pineapple Punch",
+    "firstColor": "#fbd3e9",
+    "secondColor": "#bb377d",
+    "thirdColor": "#ff9800"
+  },
+  {
+    "id": 85,
+    "title": "Blazing Orange",
+    "firstColor": "#ff512f",
+    "secondColor": "#f09819",
+    "thirdColor": "#f7b42c"
+  },
+  {
+    "id": 86,
+    "title": "Vivid Violet",
+    "firstColor": "#8e2de2",
+    "secondColor": "#4a00e0",
+    "thirdColor": "#5a3fcd"
+  },
+  {
+    "id": 87,
+    "title": "Misty Rose",
+    "firstColor": "#faaca8",
+    "secondColor": "#ddd6f3",
+    "thirdColor": "#ffe8d2"
+  },
+  {
+    "id": 88,
+    "title": "Pink Paradise",
+    "firstColor": "#f857a6",
+    "secondColor": "#ff5858",
+    "thirdColor": "#fc5c7d"
+  },
+  {
+    "id": 89,
+    "title": "Moonlit Ocean",
+    "firstColor": "#00d2ff",
+    "secondColor": "#928dab",
+    "thirdColor": "#ffebed"
+  },
+  {
+    "id": 90,
+    "title": "Orange Sherbet",
+    "firstColor": "#ff6f61",
+    "secondColor": "#f7d794",
+    "thirdColor": "#fdbb2d"
+  },
+  {
+    "id": 91,
+    "title": "Celestial Sky",
+    "firstColor": "#4ca1af",
+    "secondColor": "#c4e0e5",
+    "thirdColor": "#f7ff00"
+  },
+  {
+    "id": 92,
+    "title": "Fuchsia Dream",
+    "firstColor": "#ff9a9e",
+    "secondColor": "#fecfef",
+    "thirdColor": "#ff99ac"
+  },
+  {
+    "id": 93,
+    "title": "Frozen Berry",
+    "firstColor": "#ee9ca7",
+    "secondColor": "#ffdde1",
+    "thirdColor": "#b1e1ff"
+  },
+  {
+    "id": 94,
+    "title": "Solar Flare",
+    "firstColor": "#f2994a",
+    "secondColor": "#f2c94c",
+    "thirdColor": "#f7e2b4"
+  },
+  {
+    "id": 95,
+    "title": "Emerald Waves",
+    "firstColor": "#00b09b",
+    "secondColor": "#96c93d",
+    "thirdColor": "#00c6ff"
+  },
+  {
+    "id": 96,
+    "title": "Amethyst Sky",
+    "firstColor": "#9d50bb",
+    "secondColor": "#6e48aa",
+    "thirdColor": "#ffecd2"
+  },
+  {
+    "id": 97,
+    "title": "Citrus Glow",
+    "firstColor": "#fc4a1a",
+    "secondColor": "#f7b733",
+    "thirdColor": "#fffc00"
+  },
+  {
+    "id": 98,
+    "title": "Candy Cane",
+    "firstColor": "#ffafbd",
+    "secondColor": "#ffc3a0",
+    "thirdColor": "#ff9a9e"
+  },
+  {
+    "id": 99,
+    "title": "Jungle Fever",
+    "firstColor": "#56ab2f",
+    "secondColor": "#a8e063",
+    "thirdColor": "#5b86e5"
+  },
+  {
+    "id": 100,
+    "title": "Fiery Sunset",
+    "firstColor": "#ff416c",
+    "secondColor": "#ff4b2b",
+    "thirdColor": "#ff5c5c"
   }
 ]
 
