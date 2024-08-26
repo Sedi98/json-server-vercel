@@ -1104,5 +1104,359 @@
       "firstColor": "#606c88",
       "secondColor": "#3f4c6b"
     }
-  ]
+  ],
+
+  "threeColorGradients": [
+  {
+    "id": 1,
+    "title": "Sunset Delight",
+    "firstColor": "#ff7e5f",
+    "secondColor": "#feb47b",
+    "thirdColor": "#fca47b"
+  },
+  {
+    "id": 2,
+    "title": "Peachy Beach",
+    "firstColor": "#ffd89b",
+    "secondColor": "#19547b",
+    "thirdColor": "#a8eb12"
+  },
+  {
+    "id": 3,
+    "title": "Cool Blues",
+    "firstColor": "#2193b0",
+    "secondColor": "#6dd5ed",
+    "thirdColor": "#b92b27"
+  },
+  {
+    "id": 4,
+    "title": "Summer Breeze",
+    "firstColor": "#ff7e5f",
+    "secondColor": "#86a8e7",
+    "thirdColor": "#91eae4"
+  },
+  {
+    "id": 5,
+    "title": "Cherry Blossom",
+    "firstColor": "#ffafbd",
+    "secondColor": "#ffc3a0",
+    "thirdColor": "#fddb92"
+  },
+  {
+    "id": 6,
+    "title": "Deep Sea",
+    "firstColor": "#00c6ff",
+    "secondColor": "#0072ff",
+    "thirdColor": "#000046"
+  },
+  {
+    "id": 7,
+    "title": "Dawn to Dusk",
+    "firstColor": "#f7971e",
+    "secondColor": "#ffd200",
+    "thirdColor": "#f7b42c"
+  },
+  {
+    "id": 8,
+    "title": "Mojito Splash",
+    "firstColor": "#1d976c",
+    "secondColor": "#93f9b9",
+    "thirdColor": "#6bebc1"
+  },
+  {
+    "id": 9,
+    "title": "Ocean View",
+    "firstColor": "#43c6ac",
+    "secondColor": "#f8ffae",
+    "thirdColor": "#fa709a"
+  },
+  {
+    "id": 10,
+    "title": "Cosmic Fusion",
+    "firstColor": "#ff7e5f",
+    "secondColor": "#feb47b",
+    "thirdColor": "#2c3e50"
+  },
+  {
+    "id": 11,
+    "title": "Purple Dream",
+    "firstColor": "#cc2b5e",
+    "secondColor": "#753a88",
+    "thirdColor": "#5f72bd"
+  },
+  {
+    "id": 12,
+    "title": "Tropical Sunset",
+    "firstColor": "#fa709a",
+    "secondColor": "#fee140",
+    "thirdColor": "#fbc2eb"
+  },
+  {
+    "id": 13,
+    "title": "Cotton Candy",
+    "firstColor": "#fbc2eb",
+    "secondColor": "#a6c1ee",
+    "thirdColor": "#fddb92"
+  },
+  {
+    "id": 14,
+    "title": "Citrus Burst",
+    "firstColor": "#ff4b1f",
+    "secondColor": "#1fddff",
+    "thirdColor": "#f7b42c"
+  },
+  {
+    "id": 15,
+    "title": "Paradise",
+    "firstColor": "#34e89e",
+    "secondColor": "#0f3443",
+    "thirdColor": "#4568dc"
+  },
+  {
+    "id": 16,
+    "title": "Lavender Field",
+    "firstColor": "#eecda3",
+    "secondColor": "#ef629f",
+    "thirdColor": "#b993d6"
+  },
+  {
+    "id": 17,
+    "title": "Flamingo Pink",
+    "firstColor": "#ff9a9e",
+    "secondColor": "#fad0c4",
+    "thirdColor": "#fbc2eb"
+  },
+  {
+    "id": 18,
+    "title": "Midnight City",
+    "firstColor": "#232526",
+    "secondColor": "#414345",
+    "thirdColor": "#bdc3c7"
+  },
+  {
+    "id": 19,
+    "title": "Berry Smoothie",
+    "firstColor": "#d66d75",
+    "secondColor": "#e29587",
+    "thirdColor": "#fbc2eb"
+  },
+  {
+    "id": 20,
+    "title": "Emerald Isle",
+    "firstColor": "#348f50",
+    "secondColor": "#56b4d3",
+    "thirdColor": "#0082c8"
+  },
+  {
+    "id": 21,
+    "title": "Violet Sky",
+    "firstColor": "#c33764",
+    "secondColor": "#1d2671",
+    "thirdColor": "#4e4376"
+  },
+  {
+    "id": 22,
+    "title": "Sunset Glow",
+    "firstColor": "#f37335",
+    "secondColor": "#fdc830",
+    "thirdColor": "#e1eec3"
+  },
+  {
+    "id": 23,
+    "title": "Rainbow Dash",
+    "firstColor": "#ff9a9e",
+    "secondColor": "#fad0c4",
+    "thirdColor": "#fad0c4"
+  },
+  {
+    "id": 24,
+    "title": "Peacock",
+    "firstColor": "#2980b9",
+    "secondColor": "#2c3e50",
+    "thirdColor": "#3498db"
+  },
+  {
+    "id": 25,
+    "title": "Pink Lemonade",
+    "firstColor": "#fceabb",
+    "secondColor": "#f8b500",
+    "thirdColor": "#e7e9bb"
+  },
+  {
+    "id": 26,
+    "title": "Atlantis",
+    "firstColor": "#00c6ff",
+    "secondColor": "#0072ff",
+    "thirdColor": "#0f3443"
+  },
+  {
+    "id": 27,
+    "title": "Sunny Side Up",
+    "firstColor": "#fcb69f",
+    "secondColor": "#ffecd2",
+    "thirdColor": "#ffde7d"
+  },
+  {
+    "id": 28,
+    "title": "Neon Love",
+    "firstColor": "#ff6b6b",
+    "secondColor": "#ff8e72",
+    "thirdColor": "#ffe66d"
+  },
+  {
+    "id": 29,
+    "title": "Serenity",
+    "firstColor": "#a8edea",
+    "secondColor": "#fed6e3",
+    "thirdColor": "#ffc3a0"
+  },
+  {
+    "id": 30,
+    "title": "Caribbean Mist",
+    "firstColor": "#8e9eab",
+    "secondColor": "#eef2f3",
+    "thirdColor": "#3498db"
+  },
+  {
+    "id": 31,
+    "title": "Vibrant Sunset",
+    "firstColor": "#ff4e50",
+    "secondColor": "#fc913a",
+    "thirdColor": "#f9d423"
+  },
+  {
+    "id": 32,
+    "title": "Minty Fresh",
+    "firstColor": "#00c9ff",
+    "secondColor": "#92fe9d",
+    "thirdColor": "#00f2fe"
+  },
+  {
+    "id": 33,
+    "title": "Jodhpur Blue",
+    "firstColor": "#9cecfb",
+    "secondColor": "#65c7f7",
+    "thirdColor": "#0052d4"
+  },
+  {
+    "id": 34,
+    "title": "Blue Raspberry",
+    "firstColor": "#3498db",
+    "secondColor": "#9b59b6",
+    "thirdColor": "#e74c3c"
+  },
+  {
+    "id": 35,
+    "title": "Candy Floss",
+    "firstColor": "#fceabb",
+    "secondColor": "#f8b500",
+    "thirdColor": "#e1eec3"
+  },
+  {
+    "id": 36,
+    "title": "Peach Parfait",
+    "firstColor": "#ffb88c",
+    "secondColor": "#de6262",
+    "thirdColor": "#ff8a00"
+  },
+  {
+    "id": 37,
+    "title": "Choco Berry",
+    "firstColor": "#d66d75",
+    "secondColor": "#e29587",
+    "thirdColor": "#cbad6d"
+  },
+  {
+    "id": 38,
+    "title": "Electric Purple",
+    "firstColor": "#fc466b",
+    "secondColor": "#3f5efb",
+    "thirdColor": "#fbc2eb"
+  },
+  {
+    "id": 39,
+    "title": "Burning Sunrise",
+    "firstColor": "#ff4e50",
+    "secondColor": "#f9d423",
+    "thirdColor": "#fc913a"
+  },
+  {
+    "id": 40,
+    "title": "Fairy Tale",
+    "firstColor": "#f7f0a5",
+    "secondColor": "#a6c1ee",
+    "thirdColor": "#ffecd2"
+  },
+  {
+    "id": 41,
+    "title": "Tropical Fusion",
+    "firstColor": "#ff7e5f",
+    "secondColor": "#feb47b",
+    "thirdColor": "#00c6ff"
+  },
+  {
+    "id": 42,
+    "title": "Blush",
+    "firstColor": "#f79d00",
+    "secondColor": "#64f38c",
+    "thirdColor": "#fecfef"
+  },
+  {
+    "id": 43,
+    "title": "Cherry Sundae",
+    "firstColor": "#ff4b1f",
+    "secondColor": "#1fddff",
+    "thirdColor": "#1fa2ff"
+  },
+  {
+    "id": 44,
+    "title": "Pastel Sky",
+    "firstColor": "#a18cd1",
+    "secondColor": "#fbc2eb",
+    "thirdColor": "#fad0c4"
+  },
+  {
+    "id": 45,
+    "title": "Plum Wine",
+    "firstColor": "#cc2b5e",
+    "secondColor": "#753a88",
+    "thirdColor": "#2c3e50"
+  },
+  {
+    "id": 46,
+    "title": "Watermelon",
+    "firstColor": "#fc354c",
+    "secondColor": "#0abfbc",
+    "thirdColor": "#6bebc1"
+  },
+  {
+    "id": 47,
+    "title": "Minty Lavender",
+    "firstColor": "#20e2d7",
+    "secondColor": "#f9fea5",
+    "thirdColor": "#a8edea"
+  },
+  {
+    "id": 48,
+    "title": "Pink Mojito",
+    "firstColor": "#ff9a9e",
+    "secondColor": "#fad0c4",
+    "thirdColor": "#fbc2eb"
+  },
+  {
+    "id": 49,
+    "title": "Nebula",
+    "firstColor": "#ff8c8c",
+    "secondColor": "#a1c4fd",
+    "thirdColor": "#fa709a"
+  },
+  {
+    "id": 50,
+    "title": "Orange Dream",
+    "firstColor": "#ff8008",
+    "secondColor": "#ffc837",
+    "thirdColor": "#ffce00"
+  }
+]
+
 }
